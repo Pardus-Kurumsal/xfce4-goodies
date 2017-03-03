@@ -1,3 +1,9 @@
+xfce4-goodies (4.12.3pardus1) unstable; urgency=medium
+
+  * debian/control: Drop xfce4-sensors-plugin to "Suggests"
+
+ -- Cihangir Akturk <cihangir@pardus.org.tr>  Fri, 03 Mar 2017 16:24:01 +0300
+
 xfce4-goodies (4.12.3) unstable; urgency=medium
 
   * debian/control:
